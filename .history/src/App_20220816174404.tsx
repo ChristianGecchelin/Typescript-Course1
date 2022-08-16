@@ -17,7 +17,7 @@ function App() {
       <hr />
       <ContadorRed/>
       <hr />
-      <Formulario/>
+      <Formulario>
     </>
   );
 }
